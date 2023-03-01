@@ -1,5 +1,3 @@
-import * as model from '../model.js';
-
 import View from "./View.js";
 import icons from 'url:../../img/icons.svg';
 
